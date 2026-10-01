@@ -2,7 +2,7 @@
 
 A data analysis project exploring the **Netflix Movies and TV Shows dataset** usin&#x67;**&#xA0;Python, Pandas and Numpy.**
 
-The project focuses on data cleaning, exploration, transformation, filtering, grouping, missing-value analysis, duplicate detection, and visualization.
+The project focuses on data cleaning, exploration, transformation, filtering, grouping, missing-value analysis, duplicate detection.
 
 ---
 
@@ -306,7 +306,7 @@ Open the project folder in:
 ### 3. Install Required Libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy
 ```
 
 ### 4. Load the Dataset
@@ -382,7 +382,7 @@ This project is primarily focused on practicing **Exploratory Data Analysis and 
 
 **Yubaraj Shrestha**
 
-GitHub: `https://github.com/your-username`
+GitHub: `https://github.com/shresthayuvi07-glitch`
 
 ---
 
